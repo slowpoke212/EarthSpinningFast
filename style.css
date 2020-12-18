@@ -1,0 +1,29 @@
+@charset "utf-8";
+h1 {
+	text-align: center;
+	color: orangered
+}
+p {
+	text-align: center;
+	color: orangered
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+canvas {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	
+}
+body {
+	background: #0D0D0D
+}
+button {
+	
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
